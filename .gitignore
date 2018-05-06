@@ -1,0 +1,17 @@
+# dependencies
+.idea/
+__pycache__/
+venv/
+.venv/
+# testing
+/coverage
+
+# production
+/build
+.idea
+# misc
+.DS_Store
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
